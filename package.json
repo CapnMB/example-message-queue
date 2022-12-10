@@ -8,7 +8,7 @@
     "@types/redis": "^2.8.0",
     "lodash": "^4.17.13",
     "redis": "^2.8.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "foreman": "^3.0.1",
     "rsmq": "^0.11.0"
   },
